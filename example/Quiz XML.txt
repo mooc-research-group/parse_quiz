@@ -1,0 +1,950 @@
+"key","value"
+"xml.quiz_id:60","s:48804:""
+<quiz>
+  <metadata>
+    <title><![CDATA[Post-Course Survey]]></title>
+    <open_time>2012-09-01 0001</open_time>
+    <soft_close_time>2030-01-01 0001</soft_close_time>
+    <hard_close_time>2030-01-01 0001</hard_close_time>
+    <duration>0</duration>
+    <retry_delay>0</retry_delay>
+    <maximum_submissions>1</maximum_submissions>
+    <modified_time>1357228362005</modified_time>
+    <parameters>
+      <show_explanations>
+        <question>after_hard_close_time</question>
+        <option>after_hard_close_time</option>
+        <score>after_hard_close_time</score>
+      </show_explanations>
+    </parameters>
+    <maximum_score>28</maximum_score>
+  </metadata>
+  <preamble><![CDATA[As part of the process of offering free online courses, we are gathering data which can assist us in the improvement of each future version. By providing us with demographic and attitudinal data you can assist us in better serving diverse populations, and refining elements such as the peer assessments.<br><br>
+
+We greatly appreciate your willingness to share your time by participating. Please be assured, all data contained in any reports we produce will remain completely anonymous.]]></preamble>
+  <data>
+    <question_groups>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""2c0b05e6d9e49dd9b3faf8190af4ba4f"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[What is your age? ]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""e355494bcee609797f24f03fe2a54ef8"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""0a42de81c2536d28aeb5971f1f66c20b"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Under 18]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c41c007d097977a69bbac1eba0bbc596"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[18-24]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""0deedf186d817d2d925bd2145f5c60a9"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[25-34]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""7e695cfb821ce0a25db571cb7a693691"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[35-44]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""1f8ee1bc90771ac6702073efb9c4240b"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[45-54]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""b87f028a4ea5a9fe7eafb4f2b6c9edc9"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[55+]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""8c035445cf7b86a9a08fb67b00826665"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I prefer not to answer]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""f63269ba5ae835054aaf74726ccab5cb"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[What is your gender?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""b5f79cc000040499a51667b73bb247b6"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Option Text]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""4218ee883d244a135f71965887fce71a"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Where do you live (country/state)?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""fdfce6d5c8fa45d413a196bdd7c93bd3"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Option text]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""b3e59f8273ee6837bf68915540e3be62"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Are you a native English speaker?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""93a9ef3a81c43d96d6382c32acbe6efd"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c32f5bbb5c4ee2e819d8348b7417c252"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Yes]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c9ea67e6be82e158fb4107c529d0aee9"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[No]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""f92afa916f9ecc21030838ff1de64043"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[If you are not a native English speaker, what is your native language?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""59fc74b6a1876412e1825b96dcad59e2"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Correct option 1]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""65014e86e6f519b5656dad9cc0250f8e"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Was this your first online class?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""70364a235c43ecb70f9af66a2d0e3ec6"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""e844e8516140359cfe893091327f90a4"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Yes]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c490acd11115da583f8396061d87cab6"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[No]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""ccfd5ef4ecf125a3bd9ae939a5bb8048"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Was this your first large, free, online course (i.e. MOOC)?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""5a4a68b082d0608819a93797d6dcb94d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""a64dca85c7939a8fb5e9fa3a42e22b85"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Yes]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""2fbb9fa1324e03ddf6aa0c8ad11420ae"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[No]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""1b9c00d28a7acd6554383f6260c3048c"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>checkbox</choice_type>
+              <partial_credit>true</partial_credit>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Which best describes your motivation for taking this class? (please check all that apply)]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""bc0741ef98d59122d696a98a79a9e2dc"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[General interest in the topic]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""57ffd67624075cfd62e29c3e7c49535d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Extending current knowledge of the topic]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""2c36de263daf0302765368de390f77a1"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Supplement other college/university classes courses ]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""2157093bc5d324212b2b7388815d7af9"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Decide if I want to take college/university classes on the topic]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""8c11b9fb0794d8a6b2b597928f2a8871"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Professional development]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""f597a57ee2d25ffee8c5c337a36d00b6"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Interest in how these courses are taught]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""f0ddbd55b8c8e0ee978ecfea08864371"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Did you participate in the course with the goal of earning a certificate, or did you choose to audit instead? (please select one)]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""288358bcc972d823e23e9ae26f1a007c"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""9cba8e8a13baf38582090db7b06ce1b7"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I participated with the intent to earn certificate.]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""aca34e662f1fb9872e988843bcb6b75d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I intended to audit the class for personal enrichment, and was not concerned about the certificate.]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""a5db6b8ef1ad1ebc748f36b2cc429d20"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I began with the intent to earn a certificate, but ended up auditing for the remainder of the semester.]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""97d3a35248d2a5609c7729be0b14005a"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I participated in a portion of the graded elements for fun, but I did not intend to earn a certificate.]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""0d930ce947d47ccc3a357422b503f9ae"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Are you currently a student in a school or college?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""6a9fe5734036bde395986f4d10af7412"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""b31dcf2056bacdcb693965d572dfc35e"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Yes]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""351d7622b8ee5fd236359ac59ace0388"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[No]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""ebef2801580e55acbceb03d5063b10f7"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[What is your highest level of education?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""de8b505d504b78d1ccdd378e6ea4fc96"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c2a2c4db7d8176f8e89ffee7b0dcd734"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some high school]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""847370230f84063fb0a42c84c6a0e6f4"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[High school]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""d3ec0759ef854c32c630c00d45a1387a"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some college]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""0a4917649fefbfe6aff138f1273d3f13"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Associate's degree (2 years of college)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""819e2e8d4d0476c312370ff64b6cef19"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Bachelor's degree (BA/BS, 4 years of college)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""a054aab3bb138b8b90647db6adc8935e"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Master's degree ]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""df791c196af750e646b5464aa602273d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Doctoral degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""8aad9f79b46f74a804566b8d02fda2ff"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Professional degree (MD, JD)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""43447822302485b0d0530fcd4ec1d3b2"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[If you went to college or are currently going to college, what is the name of your college or university?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""08682f34b5f633d8c54bbcff669be3e2"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Option text]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""c8e7e5f08c2a0b8523d73ee4edcf6a87"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Have you ever attended the University of Michigan? If so, what is your current status? If you have attended the University of Michigan, we will be following up with another survey soon to gauge your interest in further continuing education opportunities, and determine which types of courses you feel would be most useful.]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""a74565e99ca4d14e7e7f75ea7b3968f9"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""73578318774b8f49150589c6ca11bc57"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Never attended]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""e40294e3e9c2902151cb9aa2b7496c31"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Currently enrolled]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""9271d28d0f49d3a1833da970e4b91406"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some coursework]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""e6e63fa811dabf79890f20214e5fdf2e"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some work toward bachelor's degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""605e2fbce7a6c167e52ddc398277028c"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Earned bachelor's degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""6feb42e9b2cfc4eb83dcc4bae25a502f"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some work toward master's degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""3665247bb31096b3c31bdfd34066fb93"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Earned master's degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""abd06999b4407ae25eede66f2f527518"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Some work toward terminal degree]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""25fe29ef35e6a7621bf343f0a66eff31"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Earned terminal degree (doctoral or equivalent)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""7f5825921cf51d36a428055a80605057"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[How much did the pre-recorded lectures help you feel connected to the professor?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""1f230ca54c7e67507aa95bd6bc3e96d4"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""3d78dc992682dc8c9516da28a066b99f"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The video lectures made me feel connected to the professor]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""66521c47a7baa383b02e838fb247608e"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I am unsure whether the videos helped me feel connected to the professor]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""e65cd918a1b81875ec2bad47a7563458"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The video lectures did not make me feel connected to the professor]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""0fbb7ca362f0fbc2d257beda0bb00fce"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[How beneficial did you find the Google Hangout office hours?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""c2a1be51bbfef0255ee516d4a11e8ae3"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""324fb98e98dd071b0517efde98638696"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I found them extremely beneficial]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""8358cbcff0cdfc35e3e825ad3b131990"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I found them somewhat beneficial]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""d1cb172004ba65350e18694da3abe2a8"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I am unsure if they were beneficial]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""56c0bfeaf61cec50a646944541e39032"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I found them somewhat unnecessary ]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""b98bd793106224cddba09691a977bc3d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I found them completely unnecessary]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""cfb14f429f082c2757b6b8b2a64f66d0"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[How did you feel about the content and delivery of the lectures?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""c8dcc43ff98262c4a0e7ac8cbe6b0960"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""da27c41383b10b22e4b378041d04b260"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The lectures were excellent]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""f85f39428a0770450a6c82af1377163b"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The lectures were good]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""5ed496d3e1e0ecf2d35a037379ce4505"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I am unsure how I feel about the quality of the lectures]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""21f97a4f37d41f634be3e9f7f9bb6cc3"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The lectures needed some improvement]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""b567421b9036dc0e40f21411bf0bc193"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The lectures were poor]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""18e07b62dd8a41fe7c785790b9634141"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[How did you feel about the design of the syllabus and other explanatory documentation?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""f9d3cce68f1b2e96a1c53b94d100a241"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""707afd4d5373d9a6ef9035ef4097e42d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I felt the documentation was excellent]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""ce8306e1d7b19d173b048c96f98e2555"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I felt the documentation was decent]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c5d6f7ecfbe51cff6d73ba638cf9f9bd"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I have no opinion about the documentation]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""83f1450eab5912053584e5f418b18788"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I felt the documentation could use some improvement]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""e879c5f572598e910cee8a44cab8feec"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I felt the documentation was poor]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""0e9238beec131d1ca7f4b6673cad8e17"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Did you feel that the course was the appropriate length?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""211270caa9d81ff07d5dded267d7f734"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""62cf4832de7d3d54bfd7774a6d535e81"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The course should be longer than ten weeks]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""98c375ed92a9a2e0a192ed6e4fd05411"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The course length of ten weeks was perfect]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""d06a157eaff058fff1512fa80acc6bc9"" selected_score=""0"" unselected_score=""0"">
+                  <text><![CDATA[The course length should have been less than ten weeks]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""17d851c1de8cb92be2562f2ee23be2ee"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>3</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[If you participated in the peer assessments, please indicate your level of satisfaction with the assessments you received.]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""35e8330604261732efd8c83d6ec3b161"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""02347fc97cd2108111e7d216c8d660e0"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was happy with the assessments I received]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""9f5dd3d58dc3796246a8f3713fd5b967"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was ambivalent about the assessments I received]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""665a9f60e66fbf461ecf8ba4b1ecf514"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was unhappy with the assessments I received]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""6b035dea374e77098e2ab40e3758457b"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Please indicate your level of satisfaction with the peer assessment process (as a reviewer).]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""91553891ac92da826b4595777193cb68"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""703dd8e0d7cfaf036bbf3c4b2a8898e2"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was happy with the review process]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""d9793c5a4540978607c1dea9f61716d2"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was ambivalent about the review process]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""51139e7ef6218ebd06640f71ba409b38"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was unhappy with the review process]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""42d069700318f598053ddc30f1258a8a"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[How satisfied were you with the grading options for the peer assessments?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""079cabbeefb7b50b9a2b18d66f06ee3a"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""75aa8d39c6b9058cd3fe5ec4be44e75d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was happy with the grading options]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""06b0c8b4ec14a6cced71d6bc9f670a67"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was ambivalent about the grading options]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""6c5f9c3c344f2c152d743827d9fdd410"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I was unhappy with the grading options]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""b16e318accd63c53add35e03b1292502"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>checkbox</choice_type>
+              <partial_credit>true</partial_credit>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[What is your opinion of the peer assessment grading scale? (please check all that apply)]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""cac16e4865a4b09c71b226871f03b0ca"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The grading options need to allow more choices (e.g. 0-5 instead of 1-3).]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""5fc8b9417235e5d3185dcbc6a14c9e76"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The grading options need to be simpler (e.g. pass/fail).]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""c654d67b26c43953d95f4dcf9b608ab4"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""e974ea294010fa83b1dfcdb1ff8509ae"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Would you consider paying for certification in courses such as this to help support future offerings? If so, what amount do you think would be most appropriate for this this particular course?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""e1d9dbe21fbefd589f300ce46d6a26c7"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""3cc16ba8673ba3e17389fe95e619a050"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Twenty-Five Dollars ($25)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""5b8c2c98a18e1bba0b2a55f7157a1b24"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Fifty Dollars ($50)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""754cd650d7d6cec1ed394a054e24914d"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[One-Hundred Dollars ($100)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""4a244f77b5d0f128fe32d1f849826fbb"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Two-Hundred Dollars ($200)]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""f38ae8a35c8e3c888a0a1c757940b7ea"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[I would not be willing to purchase a certificate of completion]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""eb4769552255669b4b3e2f26e30ff7e0"" type=""GS_Choice_Answer_Question"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <choice_type>select</choice_type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Would you be interested in being contacted by businesses looking to hire students with the skills you have developed and demonstrated in this course? (Please note, your email address would not be given out. Coursera would send you an email on behalf of the hiring parties.)]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""false"">
+              <option_group select=""all"">
+                <option id=""d2092a7a55e40e630490de453c92258e"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Please select one]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""2e4dc90ea8119d6b2ad3070b47e0eb96"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Yes]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+                <option id=""2ac020f283a8da461653f0d4692da648"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[No]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""219ab51e18adb75c2c8f2721f72e05c9"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Please use this area to give us your general feedback on the course. What did you like? What would you change if you could?]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""8c2f7c366f0386a4ddf907e835774090"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Correct option 1]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+      <question_group select=""1"">
+        <preamble><![CDATA[]]></preamble>
+        <question id=""4fafc2d62cdf4bb9ef3aeadc0bb61a71"" type=""GS_Short_Answer_Question_Simple_With_Hidden_Field"">
+          <metadata>
+            <parameters>
+              <rescale_score>1</rescale_score>
+              <type>text</type>
+            </parameters>
+          </metadata>
+          <data>
+            <text><![CDATA[Please feel free to tell us a little about yourself: ]]></text>
+            <explanation><![CDATA[]]></explanation>
+            <option_groups randomize=""true"">
+              <option_group select=""all"">
+                <option id=""a9401bebfba365066253a4699b4980b6"" selected_score=""1"" unselected_score=""0"">
+                  <text><![CDATA[Option text]]></text>
+                  <explanation><![CDATA[]]></explanation>
+                </option>
+              </option_group>
+            </option_groups>
+          </data>
+        </question>
+      </question_group>
+    </question_groups>
+  </data>
+</quiz>
+"";"

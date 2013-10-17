@@ -1,0 +1,423 @@
+Questions
+---------------
+Q-0	What is your age? 
+Q-1	What is your gender?
+Q-2	Where do you live (country/state)?
+Q-3	Are you a native English speaker?
+Q-4	If you are not a native English speaker, what is your native language?
+Q-5	Was this your first online class?
+Q-6	Was this your first large, free, online course (i.e. MOOC)?
+Q-7	Which best describes your motivation for taking this class? (please check all that apply)
+Q-8	Did you participate in the course with the goal of earning a certificate, or did you choose to audit instead? (please select one)
+Q-9	Are you currently a student in a school or college?
+Q-10	What is your highest level of education?
+Q-11	If you went to college or are currently going to college, what is the name of your college or university?
+Q-12	Have you ever attended the University of Michigan? If so, what is your current status? If you have attended the University of Michigan, we will be following up with another survey soon to gauge your interest in further continuing education opportunities, and determine which types of courses you feel would be most useful.
+Q-13	How much did the pre-recorded lectures help you feel connected to the professor?
+Q-14	How beneficial did you find the Google Hangout office hours?
+Q-15	How did you feel about the content and delivery of the lectures?
+Q-16	How did you feel about the design of the syllabus and other explanatory documentation?
+Q-17	Did you feel that the course was the appropriate length?
+Q-18	If you participated in the peer assessments, please indicate your level of satisfaction with the assessments you received.
+Q-19	Please indicate your level of satisfaction with the peer assessment process (as a reviewer).
+Q-20	How satisfied were you with the grading options for the peer assessments?
+Q-21	What is your opinion of the peer assessment grading scale? (please check all that apply)
+Q-22	Would you consider paying for certification in courses such as this to help support future offerings? If so, what amount do you think would be most appropriate for this this particular course?
+Q-23	Would you be interested in being contacted by businesses looking to hire students with the skills you have developed and demonstrated in this course? (Please note, your email address would not be given out. Coursera would send you an email on behalf of the hiring parties.)
+Q-24	Please use this area to give us your general feedback on the course. What did you like? What would you change if you could?
+Q-25	Please feel free to tell us a little about yourself: 
+
+Student Answers
+---------------
+
+[0]	Anonymous
+Q-0	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	35-44
+Q-1	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	male
+Q-1	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	us, washington
+Q-2	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	Yes
+Q-4	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-4	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.17	General interest in the topic
+Q-8	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	I intended to audit the class for personal enrichment, and was not concerned about the certificate.
+Q-9	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	No
+Q-10	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	Master's degree 
+Q-11	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	univ of washington, seattle
+Q-11	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	I found them extremely beneficial
+Q-15	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	I felt the documentation was excellent
+Q-17	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	3.00	I was ambivalent about the assessments I received
+Q-19	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	I was happy with the grading options
+Q-21	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	Twenty-Five Dollars ($25)
+Q-23	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	1.00	Yes
+Q-24	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	professor was knowledgeable and enthusiastic, really pulled me in
+Q-24	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  7:16 PM UTC +0000	0.00	
+
+[1]	Anonymous
+Q-0	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	25-34
+Q-1	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	Female
+Q-1	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	Limburg, The Netherlands
+Q-2	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	No
+Q-4	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	Dutch
+Q-4	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.67	General interest in the topic
+Q-7	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.67	Extending current knowledge of the topic
+Q-7	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.67	Supplement other college/university classes courses 
+Q-7	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.67	Decide if I want to take college/university classes on the topic
+Q-8	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	Yes
+Q-10	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	Bachelor's degree (BA/BS, 4 years of college)
+Q-11	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	Radboud Universiteit Nijmegen
+Q-11	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I am unsure whether the videos helped me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I felt the documentation was excellent
+Q-17	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	3.00	I was happy with the assessments I received
+Q-19	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I was happy with the grading options
+Q-22	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	I would not be willing to purchase a certificate of completion
+Q-23	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	1.00	Yes
+Q-24	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-24	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  5:14 PM UTC +0000	0.00	
+
+[2]	Anonymous
+Q-0	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	45-54
+Q-1	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	Female
+Q-1	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	Italy
+Q-2	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	No
+Q-4	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	Italian
+Q-4	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.33	General interest in the topic
+Q-7	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.33	Supplement other college/university classes courses 
+Q-8	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Yes
+Q-10	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Some college
+Q-11	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-11	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	I am unsure whether the videos helped me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	I found them somewhat beneficial
+Q-15	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	I felt the documentation was excellent
+Q-17	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	3.00	Please select one
+Q-19	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Please select one
+Q-20	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Please select one
+Q-21	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Please select one
+Q-23	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	1.00	Yes
+Q-24	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-24	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013 10:53 PM UTC +0000	0.00	
+
+[3]	Anonymous
+Q-0	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	45-54
+Q-1	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	Men
+Q-1	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-2	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	Netherlands
+Q-2	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-3	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	No
+Q-4	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	Dutch
+Q-4	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-5	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	No
+Q-6	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	No
+Q-7	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.17	General interest in the topic
+Q-8	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	I intended to audit the class for personal enrichment, and was not concerned about the certificate.
+Q-9	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	No
+Q-10	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	Bachelor's degree (BA/BS, 4 years of college)
+Q-11	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-11	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-12	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	Never attended
+Q-13	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	I found them extremely beneficial
+Q-15	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	I felt the documentation could use some improvement
+Q-17	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	3.00	Please select one
+Q-19	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	Please select one
+Q-20	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	Please select one
+Q-22	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	Twenty-Five Dollars ($25)
+Q-23	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	1.00	No
+Q-24	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	The illustrations, stories and anecdotes made a very good course, perfect. Thank you very much.
+Q-24	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-25	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+Q-25	[01] Fri  4 Jan 2013 12:29 PM UTC +0000	0.00	
+
+[4]	Anonymous
+Q-0	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	18-24
+Q-1	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	Male
+Q-1	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	Brazil/São Paulo
+Q-2	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	No
+Q-4	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	Portuguese
+Q-4	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.50	General interest in the topic
+Q-7	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.50	Extending current knowledge of the topic
+Q-7	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.50	Interest in how these courses are taught
+Q-8	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	I began with the intent to earn a certificate, but ended up auditing for the remainder of the semester.
+Q-9	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	Yes
+Q-10	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	Bachelor's degree (BA/BS, 4 years of college)
+Q-11	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	Fundadação Getulio Vargas - Escola de Administração de Empresas de São Paulo
+Q-11	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	I found them extremely beneficial
+Q-15	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	I felt the documentation was excellent
+Q-17	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	The course should be longer than ten weeks
+Q-18	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	3.00	I was ambivalent about the assessments I received
+Q-19	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	I was ambivalent about the review process
+Q-20	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	I was ambivalent about the grading options
+Q-21	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	One-Hundred Dollars ($100)
+Q-23	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	1.00	Yes
+Q-24	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	Two things I think could be useful for Coursera. About how much I would pay for the certification I also think that not only we should pay for it, but we should pay for it before the course, in order to engage more on following the schedule and everything. my other feedback is exactly about the explanation and course structure. I've had some other coursera moocs before and this one I decided to take it seriously to the end, following all deadlines and everything. The thing is: I did my part but somehow I lost track of course trivia and in the end I had done many assignments but some were left, and I couldn't get the certificate even after completing the final exam. Maybe you could focus some efforts on making clear what you should do and by when. When I'm following the course and my University at the same time I don't want to get lost in administrative things, specially online, where I didn't spend money on it yet
+Q-24	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	I'm a Brazilian business student that is about to finish the degree at FGV - EAESP. I've lived in Russia for half year and started my Coursera addiction there. As for professional and extra-curricular experience, I've worked for Google and GE Healthcare. Besides that I've founded a "junior company" in my university and was always active in the academic life. 
+Q-25	[01] Thu  3 Jan 2013  5:25 PM UTC +0000	0.00	
+
+[5]	Anonymous
+Q-0	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Under 18
+Q-1	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	Male
+Q-1	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	Virginia
+Q-2	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Yes
+Q-4	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-4	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.17	General interest in the topic
+Q-8	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Yes
+Q-10	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Some high school
+Q-11	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-11	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	I felt the documentation was decent
+Q-17	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	3.00	I was ambivalent about the assessments I received
+Q-19	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	I was ambivalent about the grading options
+Q-21	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	Twenty-Five Dollars ($25)
+Q-23	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	1.00	No
+Q-24	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-24	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013 10:14 PM UTC +0000	0.00	
+
+[6]	Anonymous
+Q-0	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	25-34
+Q-1	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	Feminine
+Q-1	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+Q-2	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	Italy
+Q-2	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+Q-3	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	No
+Q-4	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	Italian
+Q-4	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+Q-5	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	No
+Q-6	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	No
+Q-7	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	General interest in the topic
+Q-7	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	Extending current knowledge of the topic
+Q-7	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	Professional development
+Q-7	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	Interest in how these courses are taught
+Q-8	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	I intended to audit the class for personal enrichment, and was not concerned about the certificate.
+Q-9	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	No
+Q-10	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	Doctoral degree
+Q-11	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	University of Bologna, Italy, and School of Information Sciences, University of Pittsburgh -as PhD visiting scholar in 2009
+Q-11	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+Q-12	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	Never attended
+Q-13	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	I found them somewhat beneficial
+Q-15	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	I felt the documentation was excellent
+Q-17	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	3.00	I was happy with the assessments I received
+Q-19	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	I was happy with the grading options
+Q-21	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	One-Hundred Dollars ($100)
+Q-23	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	1.00	Yes
+Q-24	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	I loved the Professor teaching style: he is really clear and precise, but at the same time he is capable to keep the students attention by telling captivating stories. I believe the Professor great experience in the field is more than evident and contributes to keep the student interest high.
+Q-24	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+Q-25	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	I have worked for a while on uVote, an e-Voting system used for various kinds of University or research centers elections in Italy (mainly for renewing administrative bodies). I have a different job now, but I still have a strong interest in the e-Voting field -especially now that several political parties in Italy are starting to propose internet voting as an option for choosing their candidates...
+Q-25	[01] Wed  9 Jan 2013 10:36 PM UTC +0000	0.00	
+
+[7]	Anonymous
+Q-0	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	18-24
+Q-1	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	Male
+Q-1	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+Q-2	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	Russia
+Q-2	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+Q-3	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	No
+Q-4	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	Russian
+Q-4	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+Q-5	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	No
+Q-6	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	No
+Q-7	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.33	General interest in the topic
+Q-7	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.33	Supplement other college/university classes courses 
+Q-8	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	No
+Q-10	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	Bachelor's degree (BA/BS, 4 years of college)
+Q-11	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	Kemerovo State University
+Q-11	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+Q-12	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	Never attended
+Q-13	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I felt the documentation was decent
+Q-17	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	3.00	I was happy with the assessments I received
+Q-19	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I was happy with the grading options
+Q-21	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.33	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	I would not be willing to purchase a certificate of completion
+Q-23	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	1.00	Yes
+Q-24	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	I liked the personal approach to this course. It would be fun to have more hands-on assignments, although I'm not sure if I'd be able to complete this course if it was harder.
+Q-24	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+Q-25	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	So far it's the first course that I successfully completed. I always struggle to motivate myself to go on after the first couple of weeks.
+Q-25	[01] Fri  4 Jan 2013  5:35 PM UTC +0000	0.00	
+
+[8]	Anonymous
+Q-0	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	45-54
+Q-1	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	Male
+Q-1	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	US / WI
+Q-2	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	Yes
+Q-4	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-4	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.17	General interest in the topic
+Q-8	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	No
+Q-10	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	Master's degree 
+Q-11	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	Princeton
+Q-11	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I felt the documentation was decent
+Q-17	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	3.00	I was ambivalent about the assessments I received
+Q-19	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I was ambivalent about the review process
+Q-20	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I was happy with the grading options
+Q-21	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	I would not be willing to purchase a certificate of completion
+Q-23	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	1.00	No
+Q-24	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-24	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  4:07 PM UTC +0000	0.00	
+
+[9]	Anonymous
+Q-0	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	18-24
+Q-1	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	Male
+Q-1	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-2	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	Pakistan
+Q-2	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-3	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	No
+Q-4	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	Urdu
+Q-4	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-5	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	No
+Q-6	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	No
+Q-7	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.33	General interest in the topic
+Q-7	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.33	Professional development
+Q-8	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	I participated with the intent to earn certificate.
+Q-9	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	Yes
+Q-10	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	Bachelor's degree (BA/BS, 4 years of college)
+Q-11	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	Institute of Business Management
+Q-11	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-12	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	Never attended
+Q-13	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	The video lectures made me feel connected to the professor
+Q-14	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	The lectures were excellent
+Q-16	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	I felt the documentation was decent
+Q-17	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	3.00	I was happy with the assessments I received
+Q-19	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	I was happy with the review process
+Q-20	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	I was happy with the grading options
+Q-21	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.67	The grading options need to allow more choices (e.g. 0-5 instead of 1-3).
+Q-21	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.67	The grading options need to allow us to flag essays as possibly plagiarized or or inappropriate.
+Q-22	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	Fifty Dollars ($50)
+Q-23	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	1.00	Yes
+Q-24	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-24	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+Q-25	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	I'm an undergraduate business student from a country with an extremely flawed electoral process.
+Q-25	[01] Fri  4 Jan 2013  2:05 PM UTC +0000	0.00	
+
+[10]	Anonymous
+Q-0	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	25-34
+Q-1	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	male
+Q-1	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-2	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	Slovenia
+Q-2	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-3	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	No
+Q-4	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	Slovenian
+Q-4	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-5	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	No
+Q-6	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	No
+Q-7	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.67	General interest in the topic
+Q-7	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.67	Extending current knowledge of the topic
+Q-7	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.67	Supplement other college/university classes courses 
+Q-7	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.67	Professional development
+Q-8	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	I intended to audit the class for personal enrichment, and was not concerned about the certificate.
+Q-9	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Yes
+Q-10	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Some college
+Q-11	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	University of Maribor
+Q-11	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-12	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Never attended
+Q-13	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	I am unsure whether the videos helped me feel connected to the professor
+Q-14	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	I am unsure if they were beneficial
+Q-15	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	The lectures were good
+Q-16	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	I felt the documentation was decent
+Q-17	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	The course length of ten weeks was perfect
+Q-18	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	3.00	Please select one
+Q-19	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Please select one
+Q-20	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Please select one
+Q-22	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	I would not be willing to purchase a certificate of completion
+Q-23	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	1.00	Yes
+Q-24	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-24	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
+Q-25	[01] Thu  3 Jan 2013  4:31 PM UTC +0000	0.00	
